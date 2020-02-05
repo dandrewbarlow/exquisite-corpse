@@ -3,13 +3,11 @@
 
 # TEAM
 
-<<<<<<< HEAD
-    <Danny> -- <role> -- <twitter>
-=======
     <name> -- <role> -- <twitter>
     Andrew Barlow -- Co-writer
-    Danny 
->>>>>>> e73694e612e65baccd18b26288207f6d4f17e6d5
+    Henry Waill -- Co-Writer
+    Jason Fontilas -- Co-writer
+    Danny Lu -- Co-writer 
 
 # THANKS
 

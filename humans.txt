@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
     Andrew Barlow -- Co-writer
+    Jason Fontillas -- Co-writer
 
 # THANKS
 

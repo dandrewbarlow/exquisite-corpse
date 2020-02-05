@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
     Andrew Barlow -- Co-writer
+    Henry Waill -- Co-Writer
 
 # THANKS
 

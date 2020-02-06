@@ -100,8 +100,8 @@ textarea {
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400&display=swap');
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  background: rgb(245, 245, 245);
+  font-family: 'Montserrat', sans-serif;
+  background: rgb(116, 107, 107);
 }
 
 .container {
@@ -126,7 +126,7 @@ body {
 }
 
 .image1 {
-  background-image: url(../img/landingImage.jpg);
+  background-image: url(../img/frankenstein.jpg);
 }
 
 h1, h2, h3, h4, h5, h6 {

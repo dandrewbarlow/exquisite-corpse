@@ -101,6 +101,32 @@ textarea {
 
 body {
   font-family: 'Open Sans', sans-serif;
+  background: rgb(245, 245, 245);
+}
+
+.container {
+  margin: 0 auto;
+  padding: 5em 0;
+  max-width: 50em;
+  background: white;
+  box-shadow: 0 0 2em black;
+}
+
+.textContainer {
+  padding: 0 2em;
+}
+
+.parallax {
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 3em;
 }
 /* ==========================================================================
    Helper classes

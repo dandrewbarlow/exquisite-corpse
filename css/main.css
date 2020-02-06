@@ -129,6 +129,10 @@ body {
   background-image: url(../img/frankenstein.jpg);
 }
 
+.image2 {
+  background-image: url(../img/fireworks.jpg);
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-weight: normal;

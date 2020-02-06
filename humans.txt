@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-    Andrew Barlow -- Co-writer
-    Henry Waill -- Co-Writer
-    Jason Fontilas -- Co-writer
-    Danny Lu -- Co-writer
+    Team Vincent Mango
+    HTML and CSS Chef, Content Writer: Andrew Barlow
+    HTML and CSS Chef, Content Writer: Henry Waill
+    HTML and CSS Chef, Content Writer: Jason Fontilas
+    HTML and CSS Chef, Content Writer: Danny Lu
+    HTML and CSS Chef, Content Writer: Phu Le
 
 # THANKS
 

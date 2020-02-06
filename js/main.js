@@ -17,7 +17,12 @@ function boneFall() {
     bone2.style.top = pos2 + "%";
 
     // edge detection
-
+    if (pos1 > 100) {
+      pos1 = 0;
+    }
+    if (pos2 > 100) {
+      pos2 = 0;
+    }
 
 }
 

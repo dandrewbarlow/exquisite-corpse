@@ -20,10 +20,10 @@ function boneFall() {
     bone2.style.top = pos2 + "px";
 
     // edge detection
-    if (pos1 > height - 40) {
+    if (pos1 > height - 100) {
       pos1 = 0;
     }
-    if (pos2 > height - 40) {
+    if (pos2 > height - 100) {
       pos2 = 0;
     }
 

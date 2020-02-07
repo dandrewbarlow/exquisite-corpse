@@ -146,6 +146,31 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 3em;
 }
+
+
+/* BONES */
+#bone1 {
+  position: absolute;
+  left: 5%;
+  width: 10%;
+  transform-origin:50% 50%;
+  animation:2s rotateRight infinite linear;
+}
+
+#bone2{
+  position: absolute;
+  right: 5%;
+  top: 50%;
+  width: 10%;
+  transform-origin:50% 50%;
+  animation: 5s rotateRight infinite linear;
+}
+
+
+@keyframes rotateRight{
+    100%{ transform:rotate(360deg); }
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */

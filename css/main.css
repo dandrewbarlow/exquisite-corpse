@@ -154,16 +154,15 @@ body {
 }
 
 .image8 {
-  background-image: url(../img/dracula_vs_frankenstein.jpg);
-  
-}
-
-.image9 {
   background-image: url(../img/frankenclown.gif);
 }
 
+.image9 {
+  background-image: url(../img/dracula_vs_frankenstein.jpg);
+}
+
 .image7_5 {
-  background-image: url(../img/wedding2.jpg);
+  background-image: url(wedding2.jpg);
 }
 
 h1, h2, h3, h4, h5, h6 {

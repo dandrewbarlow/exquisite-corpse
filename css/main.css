@@ -154,7 +154,11 @@ body {
 }
 
 .image8 {
+<<<<<<< HEAD
   background-image: url(../img/frankenclown.gif)
+=======
+  background-image: url(../img/dracula_vs_frankenstein.jpg)
+>>>>>>> b1f1049ae5aa74f5079717d53034f4369e3b17ab
 }
 
 h1, h2, h3, h4, h5, h6 {

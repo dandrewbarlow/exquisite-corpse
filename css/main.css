@@ -149,6 +149,10 @@ body {
   background-image: url(../img/clown_smear.jpg)
 }
 
+.image7 {
+  background-image: url(../img/wedding.jpg)
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-weight: normal;

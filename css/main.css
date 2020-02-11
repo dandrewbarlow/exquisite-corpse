@@ -146,19 +146,19 @@ body {
 }
 
 .image6 {
-  background-image: url(../img/clown_smear.jpg)
+  background-image: url(../img/clown_smear.jpg);
 }
 
 .image7 {
-  background-image: url(../img/wedding.jpg)
+  background-image: url(../img/wedding.jpg);
 }
 
 .image8 {
-<<<<<<< HEAD
-  background-image: url(../img/frankenclown.gif)
-=======
-  background-image: url(../img/dracula_vs_frankenstein.jpg)
->>>>>>> b1f1049ae5aa74f5079717d53034f4369e3b17ab
+  background-image: url(../img/frankenclown.gif);
+}
+
+.image9 {
+  background-image: url(../img/dracula_vs_frankenstein.jpg);
 }
 
 h1, h2, h3, h4, h5, h6 {

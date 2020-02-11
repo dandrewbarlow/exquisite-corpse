@@ -146,15 +146,20 @@ body {
 }
 
 .image6 {
-  background-image: url(../img/clown_smear.jpg)
+  background-image: url(../img/clown_smear.jpg);
 }
 
 .image7 {
-  background-image: url(../img/wedding.jpg)
+  background-image: url(../img/wedding.jpg);
 }
 
 .image8 {
-  background-image: url(../img/frankenclown.gif)
+  background-image: url(../img/dracula_vs_frankenstein.jpg);
+  
+}
+
+.image9 {
+  background-image: url(../img/frankenclown.gif);
 }
 
 .image7_5 {
